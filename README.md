@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer · AI Prototyper · Cloud & Embedded Systems Builder</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=BARLOW%20REWITA&fontSize=42&fontAlignY=38&desc=Building%20real%20software%20with%20a%20retro-cyberpunk%20edge&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=BARLOW%20REWITA&fontSize=42&fontAlignY=38&descAlignY=60&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -125,7 +125,8 @@ That shaped how I work now: **disciplined, resilient, adaptable, and focused on 
 
 - building stronger production-ready full-stack projects
 - growing deeper in **C# / .NET** and backend architecture
-- expanding AI-integrated software work
+- expanding AI-integrated software work, and tinkering with local LLMs
+- Learning MacOS (Long-time Windows user)
 - making my GitHub and portfolio reflect the level I’m actually operating at
 
 ---
@@ -134,7 +135,7 @@ That shaped how I work now: **disciplined, resilient, adaptable, and focused on 
 
 <p align="center">
   <a href="https://barlowrewita.dev">Portfolio</a> •
-  <a href="https://github.com/TheRadBazz">GitHub</a> •
+  <a href="https://www.linkedin.com/in/barlow-rewita-577110284/">LinkedIn</a> •
   <a href="mailto:rewita62@gmail.com">Email</a>
 </p>
 
