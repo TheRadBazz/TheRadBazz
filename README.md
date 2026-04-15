@@ -13,8 +13,8 @@
   <a href="https://barlowrewita.dev">
     <img src="https://img.shields.io/badge/Portfolio-barlowrewita.dev-0f0f0f?style=for-the-badge" />
   </a>
-  <a href="https://github.com/TheRadBazz">
-    <img src="https://img.shields.io/badge/GitHub-TheRadBazz-0f0f0f?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/barlow-rewita-577110284/">
+    <img src="https://img.shields.io/badge/LinkedIn-Barlow Rewita-0f0f0f?style=for-the-badge" />
   </a>
   <a href="mailto:rewita62@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-0f0f0f?style=for-the-badge" />
